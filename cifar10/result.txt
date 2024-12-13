@@ -1,0 +1,163 @@
+Number of prunning iterations to reduce 67% filters 5
+Ranking filters..
+Layers that will be prunned {28: 106, 26: 75, 24: 129, 21: 67, 14: 6, 19: 60, 12: 10, 17: 40, 10: 9, 0: 3, 5: 4, 7: 3}
+Prunning filters..
+Filters prunned 87.87878787878788%
+Fine tuning to recover from prunning iteration.
+Epoch:  0
+Accuracy : 0.7905
+Epoch:  1
+Accuracy : 0.817
+Epoch:  2
+Accuracy : 0.8441
+Epoch:  3
+Accuracy : 0.8422
+Epoch:  4
+Accuracy : 0.8602
+Epoch:  5
+Accuracy : 0.8656
+Epoch:  6
+Accuracy : 0.859
+Epoch:  7
+Accuracy : 0.8689
+Epoch:  8
+Accuracy : 0.8763
+Epoch:  9
+Accuracy : 0.8737
+Finished fine tuning.
+Ranking filters..
+Layers that will be prunned {24: 62, 21: 75, 28: 68, 26: 70, 19: 84, 17: 94, 0: 3, 10: 16, 5: 4, 12: 16, 14: 16, 2: 2, 7: 2}
+Prunning filters..
+Filters prunned 75.75757575757575%
+Fine tuning to recover from prunning iteration.
+Epoch:  0
+Accuracy : 0.873
+Epoch:  1
+Accuracy : 0.875
+Epoch:  2
+Accuracy : 0.8815
+Epoch:  3
+Accuracy : 0.8889
+Epoch:  4
+Accuracy : 0.876
+Epoch:  5
+Accuracy : 0.888
+Epoch:  6
+Accuracy : 0.8814
+Epoch:  7
+Accuracy : 0.8861
+Epoch:  8
+Accuracy : 0.8904
+Epoch:  9
+Accuracy : 0.8854
+Finished fine tuning.
+Ranking filters..
+Layers that will be prunned {21: 64, 24: 60, 26: 66, 28: 75, 19: 89, 12: 27, 10: 26, 17: 62, 0: 5, 5: 8, 2: 5, 14: 20, 7: 5}
+Prunning filters..
+Filters prunned 63.63636363636363%
+Fine tuning to recover from prunning iteration.
+Epoch:  0
+Accuracy : 0.8656
+Epoch:  1
+Accuracy : 0.8849
+Epoch:  2
+Accuracy : 0.883
+Epoch:  3
+Accuracy : 0.8881
+Epoch:  4
+Accuracy : 0.8837
+Epoch:  5
+Accuracy : 0.8816
+Epoch:  6
+Accuracy : 0.8845
+Epoch:  7
+Accuracy : 0.8947
+Epoch:  8
+Accuracy : 0.8823
+Epoch:  9
+Accuracy : 0.8924
+Finished fine tuning.
+Ranking filters..
+Layers that will be prunned {24: 55, 2: 7, 19: 61, 14: 29, 26: 56, 17: 66, 21: 64, 10: 39, 12: 40, 28: 62, 0: 6, 7: 12, 5: 15}
+Prunning filters..
+Filters prunned 51.515151515151516%
+Fine tuning to recover from prunning iteration.
+Epoch:  0
+Accuracy : 0.8748
+Epoch:  1
+Accuracy : 0.8716
+Epoch:  2
+Accuracy : 0.8798
+Epoch:  3
+Accuracy : 0.8821
+Epoch:  4
+Accuracy : 0.8833
+Epoch:  5
+Accuracy : 0.8852
+Epoch:  6
+Accuracy : 0.8861
+Epoch:  7
+Accuracy : 0.8882
+Epoch:  8
+Accuracy : 0.8895
+Epoch:  9
+Accuracy : 0.8934
+Finished fine tuning.
+Ranking filters..
+Layers that will be prunned {26: 71, 17: 74, 28: 56, 24: 55, 21: 70, 10: 27, 12: 30, 19: 46, 5: 13, 0: 9, 14: 39, 2: 6, 7: 16}
+Prunning filters..
+Filters prunned 39.39393939393939%
+Fine tuning to recover from prunning iteration.
+Epoch:  0
+Accuracy : 0.8568
+Epoch:  1
+Accuracy : 0.8705
+Epoch:  2
+Accuracy : 0.8569
+Epoch:  3
+Accuracy : 0.876
+Epoch:  4
+Accuracy : 0.8762
+Epoch:  5
+Accuracy : 0.878
+Epoch:  6
+Accuracy : 0.8779
+Epoch:  7
+Accuracy : 0.8793
+Epoch:  8
+Accuracy : 0.8736
+Epoch:  9
+Accuracy : 0.884
+Finished fine tuning.
+Finished. Going to fine tune the model a bit more
+Epoch:  0
+Accuracy : 0.873
+Epoch:  1
+Accuracy : 0.8719
+Epoch:  2
+Accuracy : 0.88
+Epoch:  3
+Accuracy : 0.8862
+Epoch:  4
+Accuracy : 0.8825
+Epoch:  5
+Accuracy : 0.8813
+Epoch:  6
+Accuracy : 0.8882
+Epoch:  7
+Accuracy : 0.8947
+Epoch:  8
+Accuracy : 0.8863
+Epoch:  9
+Accuracy : 0.8861
+Epoch:  10
+Accuracy : 0.885
+Epoch:  11
+Accuracy : 0.8885
+Epoch:  12
+Accuracy : 0.8904
+Epoch:  13
+Accuracy : 0.8919
+Epoch:  14
+Accuracy : 0.8893
+Finished fine tuning.
