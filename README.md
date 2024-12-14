@@ -1,4 +1,4 @@
-# Code for ECE1508 project
+# Code for ECE1508 project: Model Pruning on Large Convolution Neural Network
 Team member: Tongyu Liu, Shiming Zhang
 
 ## Running on dog-vs-cat dataset
@@ -19,3 +19,7 @@ To prune the pre-trained model, run:
 [VGG16_prune_cifar10.ipynb](VGG16_prune_cifar10.ipynb) is the jupyter notebook of pruning VGG16 on CIFAR10 dataset.
 
 [cifar10](cifar10) contains the source code for running training, pruning and visualization for CIFAR10 dataset.
+
+
+## Reference
+[pytorch-pruning](https://github.com/jacobgil/pytorch-pruning), [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)
