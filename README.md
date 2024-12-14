@@ -22,4 +22,4 @@ To prune the pre-trained model, run:
 
 
 ## Reference
-[pytorch-pruning](https://github.com/jacobgil/pytorch-pruning), [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)
+[pytorch-pruning](https://github.com/jacobgil/pytorch-pruning), [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440), [VGG16](https://arxiv.org/abs/1409.1556)
