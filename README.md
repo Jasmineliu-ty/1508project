@@ -6,7 +6,9 @@ Team member: Tongyu Liu, Shiming Zhang
 
 [dog_vs_cat](dog_vs_cat) contains the source code for running training, pruning and visualization for dog-vs-cat dataset.
 
-### Command to run
+In [dog_vs_cat](dog_vs_cat) folder, [process_dataset](dog_vs_cat/process_dataset) contains the code to organize the original [dog-vs-cat](https://www.kaggle.com/c/dogs-vs-cats) dataset. [visualization](dog_vs_cat/visualization) contains the code to generate the plot that visualize the models.
+
+### Command to run training and pruning
 To train the VGG16 model, run:
 `python finetune.py --train`
 
